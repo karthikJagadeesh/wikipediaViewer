@@ -1,5 +1,3 @@
 # wikipediaViewer
 
-Search for wikipedia articles and get all relevant results for detailed read
-
-Free Code Camp - project => Wikipedia Viewer
+An Ajax driven application that lets you search for wikipedia articles.
